@@ -1,0 +1,36 @@
+body
+{
+    color: black;
+}
+
+#accroche 
+{
+	color: red;
+}
+
+.hack
+{
+	font-weight: bold;
+	color: brown;
+}
+
+#Introduction
+{
+	color:pink;
+	font-weight: 900;
+}
+
+#merci
+{
+	background-color: brown;
+	background-image: url(thankyou.gif);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+#macif
+{
+	background-image: url(macif.jpg);
+	background-repeat: no-repeat;
+	
+}
